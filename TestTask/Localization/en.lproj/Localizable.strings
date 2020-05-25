@@ -1,0 +1,7 @@
+"maximumValueLessThanZeroErrorMessage" = "Setting max value to an integer below zero (0) is not allowed";
+
+"maximumValueLessThanZeroFailureReason" = "You've used a value below zero in a setMaximumValue(_:) method.";
+
+"maximumValueLessThanZeroRecoverySuggestion" = "setMaximumValue(_:) method parameter should be more than zero (0)";
+
+"maximumValueLessThanZeroHelp" = "Use an integer more than zero (0) for a maximum value";

@@ -1,0 +1,7 @@
+"maximumValueLessThanZeroErrorMessage" = "Установка максимального значения меньше нула (0) запрещена";
+
+"maximumValueLessThanZeroFailureReason" = "Вы использовали значение меньше нуля (0) в методе setMaximumValue(_:).";
+
+"maximumValueLessThanZeroRecoverySuggestion" = "setMaximumValue(_:) параметер для данного метода должен быть больше нуля (0)";
+
+"maximumValueLessThanZeroHelp" = "Используйте Int, который больше нуля (0) в качестве максимального значения";
